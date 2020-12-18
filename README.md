@@ -4,7 +4,7 @@ Example server for the tax calculation.
 
 ## Example
 
-Base URL: http://localhost:8080/<year>/<month or 0>
+Base URL: http://localhost:8080/< year >/<month or 0>
 
 Paremeter: add all input parameter as query parameter
 
